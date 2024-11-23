@@ -1,2 +1,1 @@
-# VulnHub-Writeups
- # notes
+# notes 
